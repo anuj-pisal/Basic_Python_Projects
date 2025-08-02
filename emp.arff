@@ -1,0 +1,30 @@
+@RELATION employee_data
+
+@ATTRIBUTE age NUMERIC
+@ATTRIBUTE salary NUMERIC
+@ATTRIBUTE department {HR, IT, Sales}
+@ATTRIBUTE experience NUMERIC
+@ATTRIBUTE education {HighSchool, Bachelors, Masters, PhD}
+@ATTRIBUTE class {Yes, No}
+
+@DATA
+22, 40000, IT, 1, Bachelors, No
+25, 50000, IT, 2, Bachelors, Yes
+28, 55000, HR, 3, Masters, No
+30, 60000, HR, 5, Bachelors, No
+32, 70000, Sales, 4, Masters, Yes
+35, 75000, Sales, 7, Bachelors, Yes
+38, 80000, IT, 9, Masters, No
+40, 85000, IT, 10, PhD, Yes
+42, 90000, HR, 12, Masters, No
+45, 95000, HR, 15, PhD, Yes
+48, 100000, Sales, 18, Masters, No
+50, 105000, Sales, 20, PhD, No
+52, 110000, IT, 22, Bachelors, Yes
+55, 115000, IT, 25, PhD, No
+58, 120000, HR, 27, Masters, Yes
+60, 125000, HR, 30, PhD, No
+35, 72000, Sales, 8, Bachelors, Yes
+29, 56000, IT, 4, Masters, No
+41, 86000, HR, 11, PhD, No
+37, 77000, IT, 6, Bachelors, Yes
