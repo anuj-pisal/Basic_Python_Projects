@@ -69,3 +69,12 @@ A Python script to dynamically generate a resume based on user input.
 ```bash
 git clone https://github.com/anuj-pisal/Basic_Python_Projects.git
 cd Basic_Python_Projects
+
+---
+
+## 👨‍💻 Author
+
+**Anuj Pisal**  
+GitHub: [@anuj-pisal](https://github.com/anuj-pisal)
+
+
