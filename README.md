@@ -18,9 +18,6 @@ A simplified data mining tool built with `Tkinter` that supports:
 
 > **Libraries Used**: `Tkinter`, `Pandas`, `Matplotlib`, `Scikit-learn`, `Scipy`, `ARFF`
 
-#### 🖼️ GUI Screenshot
-*(Add a screenshot of the GUI here if desired)*
-
 ---
 
 ### 2. 📚 Library Management System (Console-based)
